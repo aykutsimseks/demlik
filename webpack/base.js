@@ -1,4 +1,4 @@
-const app_root = 'src_users';
+const app_root = 'src';
 
 const path = require('path');
 const extend = require('lodash/extend');
