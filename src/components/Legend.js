@@ -18,7 +18,7 @@ export default class Legend extends Component {
             >
               { obj.color && <div className="bullet" style={{ background: obj.color }} /> }
               <span className="text">{getLocaleText(obj, 'country', locale)}</span>
-            </li>,
+            </li>
           )
         }
       </ul>
