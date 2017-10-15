@@ -1,13 +1,13 @@
 {
-  "name": "demlik",
+  "name": "altug-firarda",
   "version": "1.0.0",
-  "description": "Start building complex react-redux apps today, with this minimalist easy to understand starter kit (boilerplate)",
+  "description": "Altug Firarda",
   "keywords": [],
-  "main": "index.js",
-  "homepage": "http://www.aykut.simsek.com",
+  "main": "src/App.js",
+  "homepage": "http://www.aykut.simsek.com/altug-firarda",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aykutsimseks/demlik"
+    "url": "https://github.com/aykutsimseks/demlik/tree/altug-firarda"
   },
   "scripts": {
     "build": "npm run clean && npm run build:prod",
